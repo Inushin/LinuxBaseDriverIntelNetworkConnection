@@ -1,0 +1,1 @@
+cmd_/home/e1000e-3.8.4/src/e1000e.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/e1000e-3.8.4/src/e1000e.ko /home/e1000e-3.8.4/src/e1000e.o /home/e1000e-3.8.4/src/e1000e.mod.o;  true
