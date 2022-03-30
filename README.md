@@ -1,5 +1,7 @@
 # Enable Network for e1000e Linux* Base Driver for Intel(R) Network Connection
 
+![IntelLogo](https://user-images.githubusercontent.com/57062736/160905823-5f9a41cd-f81c-4573-98eb-38f860909738.jpg)
+
 This driver was downloaded from the official [Intel's Driver website](https://www.intel.com/content/www/us/en/support/articles/000005480/ethernet-products.html).
 
 Used with an Asus Prime B560M-A with Linux Mint 20.3 Cinnamon with kernel 5.4.0-105-generic.
